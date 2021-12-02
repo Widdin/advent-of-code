@@ -3,7 +3,7 @@ class Day01:
     def __init__(self):
         self.puzzle_input = self.load_input()
 
-    def part_one(self):
+    def part_one(self) -> int:
         previous_number = self.puzzle_input[0]
         increased = 0
 
@@ -15,7 +15,7 @@ class Day01:
 
         return increased
 
-    def part_two(self):
+    def part_two(self) -> int:
         increased = 0
 
         for index, number in enumerate(self.puzzle_input):
@@ -34,7 +34,7 @@ class Day01:
         return increased
 
     @staticmethod
-    def load_input():
+    def load_input() -> list:
         list_input = []
         with open("input.txt") as file:
             for line in file:
@@ -42,6 +42,6 @@ class Day01:
         return list_input
 
 
-day1 = Day1()
-print(f'Result part 1: {day1.part_one()}')
-print(f'Result part 2: {day1.part_two()}')
+day = Day01()
+print(f'Result part 1: {day.part_one()}')
+print(f'Result part 2: {day.part_two()}')
