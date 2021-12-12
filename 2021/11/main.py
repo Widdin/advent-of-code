@@ -33,12 +33,10 @@ class Day11:
 
     @staticmethod
     def is_all_flashing(data) -> bool:
-        flashing = True
         for line in data:
             if sum(line) > 0:
-                flashing = False
-
-        return flashing
+                return False
+        return True
 
     def increase_adjacent(self, data, x, y):
         d = {
