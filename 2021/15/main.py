@@ -73,7 +73,7 @@ class Day15:
                 if full_map:
                     big_map_row = []
                     for i in range(5):
-                        big_map_row += [b + i if b + i <= 9 else ((b + i) % 10) + 1 for b in numbers]
+                        big_map_row += [number + i if number + i <= 9 else ((number + i) % 10) + 1 for number in numbers]
                     numbers = big_map_row
                 lst.append(numbers)
 
@@ -81,7 +81,7 @@ class Day15:
             big_map_col = []
             for i in range(5):
                 for row in lst:
-                    big_map_col.append([x + i if x + i <= 9 else ((x + i) % 10) + 1 for x in row])
+                    big_map_col.append([number + i if number + i <= 9 else ((number + i) % 10) + 1 for number in row])
             lst = big_map_col
 
         return lst
