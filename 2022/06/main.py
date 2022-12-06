@@ -9,13 +9,11 @@ class Day06:
     def part_two(self) -> int:
         return self.get_start_of_packet_marker(distinct_characters=14, input=self.puzzle_input)
 
-@staticmethod
-def get_start_of_packet_marker(distinct_characters: int, input: list) -> int:
-    for index, _ in enumerate(input):
-        range = input[index:index + distinct_characters]
-
-        if len(set(range)) == len(range):
-            return (index + distinct_characters)
+    @staticmethod
+    def get_start_of_packet_marker(distinct_characters: int, input: list) -> int:
+        for index, _ in enumerate(input):
+            if len(set(input[index:index + distinct_characters])) == distinct_characters:
+                return (index + distinct_characters)
 
     @staticmethod
     def load_input() -> list:
