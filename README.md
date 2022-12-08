@@ -11,6 +11,7 @@ My Python Solutions to [Advent of Code](https://adventofcode.com/)
 |5	  |Supply Stacks|⭐       |⭐     | [🔗](2022/05/main.py) |
 |6	  |Tuning Trouble|⭐       |⭐     | [🔗](2022/06/main.py) |
 |7	  |No Space Left On Device|⭐       |⭐     | [🔗](2022/07/main.py) |
+|8	  |Treetop Tree House|⭐       |⭐     | [🔗](2022/08/main.py) |
 
 ## [2021](https://adventofcode.com/2021)
 | Day | Name | Part 1  | Part 2 | Code |
