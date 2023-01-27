@@ -14,6 +14,7 @@ My Python Solutions to [Advent of Code](https://adventofcode.com/)
 |8	  |Treetop Tree House|⭐       |⭐     | [🔗](2022/08/main.py) |
 |9	  |Rope Bridge|⭐       |⭐     | [🔗](2022/09/main.py) |
 |10	  |Cathode-Ray Tube|⭐       |⭐     | [🔗](2022/10/main.py) |
+|11	  |Monkey in the Middle|⭐       |⭐     | [🔗](2022/11/main.py) |
 
 ## [2021](https://adventofcode.com/2021)
 | Day | Name | Part 1  | Part 2 | Code |
