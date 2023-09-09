@@ -34,3 +34,11 @@ My Python Solutions to [Advent of Code](https://adventofcode.com/)
 |13   |Transparent Origami|⭐       |⭐     | [🔗](2021/13/main.py) |
 |14   |Extended Polymerization|⭐       |⭐     | [🔗](2021/14/main.py) |
 |15   |Chiton|⭐       |⭐     | [🔗](2021/15/main.py) |
+
+## [2020](https://adventofcode.com/2020)
+| Day | Name | Part 1  | Part 2 | Code |
+| --- |------|:-------:|:------:|:------:|
+|1|Report Repair|⭐|⭐|[🔗](2020/01/main.py)|
+|2|Password Philosophy|⭐|⭐|[🔗](2020/02/main.py)|
+|3|Toboggan Trajectory|⭐|⭐|[🔗](2020/03/main.py)|
+
