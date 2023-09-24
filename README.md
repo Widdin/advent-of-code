@@ -41,4 +41,7 @@ My Python Solutions to [Advent of Code](https://adventofcode.com/)
 |1|Report Repair|⭐|⭐|[🔗](2020/01/main.py)|
 |2|Password Philosophy|⭐|⭐|[🔗](2020/02/main.py)|
 |3|Toboggan Trajectory|⭐|⭐|[🔗](2020/03/main.py)|
+|4|Passport Processing|⭐|⭐|[🔗](2020/04/main.py)|
+|5|Binary Boarding|⭐|⭐|[🔗](2020/05/main.py)|
+|6|Custom Customs|⭐|⭐|[🔗](2020/06/main.py)|
 
