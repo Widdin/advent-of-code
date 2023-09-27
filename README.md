@@ -44,4 +44,5 @@ My Python Solutions to [Advent of Code](https://adventofcode.com/)
 |4|Passport Processing|⭐|⭐|[🔗](2020/04/main.py)|
 |5|Binary Boarding|⭐|⭐|[🔗](2020/05/main.py)|
 |6|Custom Customs|⭐|⭐|[🔗](2020/06/main.py)|
+|7|Handy Haversacks|⭐|⭐|[🔗](2020/07/main.py)|
 
