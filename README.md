@@ -48,3 +48,4 @@ My Python Solutions to [Advent of Code](https://adventofcode.com/)
 |8|Handheld Halting|⭐|⭐|[🔗](2020/08/main.py)|
 |9|Encoding Error|⭐|⭐|[🔗](2020/09/main.py)|
 |10|Adapter Array|⭐|⭐|[🔗](2020/10/main.py)|
+|11|Seating System|⭐|⭐|[🔗](2020/11/main.py)|
