@@ -49,3 +49,4 @@ My Python Solutions to [Advent of Code](https://adventofcode.com/)
 |9|Encoding Error|⭐|⭐|[🔗](2020/09/main.py)|
 |10|Adapter Array|⭐|⭐|[🔗](2020/10/main.py)|
 |11|Seating System|⭐|⭐|[🔗](2020/11/main.py)|
+|12|Rain Risk|⭐|⭐|[🔗](2020/12/main.py)|
