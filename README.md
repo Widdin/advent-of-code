@@ -55,3 +55,4 @@ My Python Solutions to [Advent of Code](https://adventofcode.com/)
 |15|Rambunctious Recitation|⭐|⭐|[🔗](2020/15/main.py)|
 |16|Ticket Translation|⭐|⭐|[🔗](2020/16/main.py)|
 |17|Conway Cubes|⭐|⭐|[🔗](2020/17/main.py)|
+|18|Operation Order|⭐|⭐|[🔗](2020/18/main.py)|
